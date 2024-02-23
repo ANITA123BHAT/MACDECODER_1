@@ -1,0 +1,1536 @@
+Converted MAC_PDU  header: 0
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 1
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 2
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 3
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 4
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 5
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 6
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 7
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 8
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 9
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 10
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 11
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 12
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 13
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 14
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 15
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 16
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 17
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 18
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 19
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 20
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 21
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 22
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 23
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 24
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 25
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 26
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 27
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 28
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 29
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 30
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 31
+Value of R1=0
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 32
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 33
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 34
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 35
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 36
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 37
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 38
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 39
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 40
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 41
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 42
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 43
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 44
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 45
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 46
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 47
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 48
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 49
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 50
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 51
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 52
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 53
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 54
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 55
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 56
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 57
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 58
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 59
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 60
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 61
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 62
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 63
+Value of R1=0
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 64
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 65
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 66
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 67
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 68
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 69
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 70
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 71
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 72
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 73
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 74
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 75
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 76
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 77
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 78
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 79
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 80
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 81
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 82
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 83
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 84
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 85
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 86
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 87
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 88
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 89
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 90
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 91
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 92
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 93
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 94
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 95
+Value of R1=0
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 96
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 97
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 98
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 99
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 100
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 101
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 102
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 103
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 104
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 105
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 106
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 107
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 108
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 109
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 110
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 111
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 112
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 113
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 114
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 115
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 116
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 117
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 118
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 119
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 120
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 121
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 122
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 123
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 124
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 125
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 126
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 127
+Value of R1=0
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 128
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 129
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 130
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 131
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 132
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 133
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 134
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 135
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 136
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 137
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 138
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 139
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 140
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 141
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 142
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 143
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 144
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 145
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 146
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 147
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 148
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 149
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 150
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 151
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 152
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 153
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 154
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 155
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 156
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 157
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 158
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 159
+Value of R1=1
+Value of R2=0
+Value of E=0
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 160
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 161
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 162
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 163
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 164
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 165
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 166
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 167
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 168
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 169
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 170
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 171
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 172
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 173
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 174
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 175
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 176
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 177
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 178
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 179
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 180
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 181
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 182
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 183
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 184
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 185
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 186
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 187
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 188
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 189
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 190
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 191
+Value of R1=1
+Value of R2=0
+Value of E=1
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 192
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 193
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 194
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 195
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 196
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 197
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 198
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 199
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 200
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 201
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 202
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 203
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 204
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 205
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 206
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 207
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 208
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 209
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 210
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 211
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 212
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 213
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 214
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 215
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 216
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 217
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 218
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 219
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 220
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 221
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 222
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 223
+Value of R1=1
+Value of R2=1
+Value of E=0
+LCID Val for  downlink
+Padding
+Converted MAC_PDU  header: 224
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+CCCH
+Converted MAC_PDU  header: 225
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 226
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 227
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 228
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 229
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 230
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 231
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 232
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 233
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 234
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Identity of the logical channel
+Converted MAC_PDU  header: 235
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 236
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 237
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 238
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 239
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 240
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 241
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 242
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 243
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 244
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 245
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 246
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 247
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 248
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 249
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Reserved
+Converted MAC_PDU  header: 250
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Long DRX Command
+Converted MAC_PDU  header: 251
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Activation/Deactivation
+Converted MAC_PDU  header: 252
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+UE Contention Resolution Identity
+Converted MAC_PDU  header: 253
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Timing Advance Command
+Converted MAC_PDU  header: 254
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+DRX Command
+Converted MAC_PDU  header: 255
+Value of R1=1
+Value of R2=1
+Value of E=1
+LCID Val for  downlink
+Padding
